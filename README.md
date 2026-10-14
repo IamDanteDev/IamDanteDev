@@ -7,6 +7,7 @@
 <h1 align="center">👋 ¡Qué onda! Soy <span style="color:#FFD700;">IamDanteDev</span> 🟡</h1>
 
 <p align="center">
+  <a href="https://www.youtube.com/@iamdantedev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.youtube.com/@danteelgameryt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.twitch.tv/danteelgamer_"><img src="https://img.shields.io/twitch/status/danteelgamer_?style=for-the-badge&logo=twitch&logoColor=white&label=TWITCH&color=9146FF" alt="Twitch"></a>
   <a href="https://kick.com/danteelgamerreal"><img src="https://img.shields.io/badge/Kick-52C41A?style=for-the-badge&logo=kick&logoColor=white" alt="Kick"></a>
@@ -33,8 +34,8 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 ✨ **Datos random:**  
 - 💻 Uso **Fedora Linux** 🐧
-- 🧩 Programo en **JSON, HTML, Lua, Haxe, Arduino, CSS, JS, TurboWarp, Roblox Studio Y MÁS**
-- 🎯 Meta: no se que cosa poner aqui XD
+- 🧩 Programo en **JSON, HTML, Lua, Haxe, Arduino, CSS, JS, TurboWarp (Scratch), Roblox Studio y mucho más**
+- 🎯 Meta: aportar con apps, herramientas, etc. que no existan o que sí existan pero no sean muy buenas.
 - 🧠 Aprendo haciendo, rompiendo, y arreglando
 
 ---
@@ -56,11 +57,11 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamDanteDev&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
+  <img src="https://komarev.com/ghpvc/?username=IamDanteDev&color=FFD700&style=flat-square&label=%F0%9F%91%80+Visitas" alt="Visitas">
 </p>
 
 <p align="center">
-  <b>¿Te gusta lo que hago?</b> Seguime en redes, mandame un mensaje cuando este en twitch y/o kick, o contribuye a algún proyecto 🙌  
+  <b>¿Te gusta lo que hago?</b> Seguime en redes, o contribuye a algún proyecto cuando encuentres algun bug y reportalo 🙌  
   <br>
   <i>— IamDanteDev </i>
 </p>
