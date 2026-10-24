@@ -50,7 +50,7 @@ Siempre buscando **aprender algo nuevo, romper código y volverlo a armar** 😎
 
 ---
 
-### 💻 Mi Daily Driver & Setup
+### 💻 My Daily Driver & Setup
 
 | Componente                    | Detalle                                           |
 |:----------------------------- |:------------------------------------------------- |
