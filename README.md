@@ -29,11 +29,11 @@ Soy un programador y creador de contenido al que le apasiona **darle vida a idea
 Siempre buscando **aprender algo nuevo, romper código y volverlo a armar** 😎
 
 ```text
- ___                      ____                  _       ____                    
-|_ _| __ _ _ __ ___  _ __|  _ \  __ _ _ __  ___| |_ ___|  _ \  _____   __       
- | | / _` | '_ ` _ \| '__| | | |/ _` | '_ \/ __| __/ _ \ | | |/ _ \ \ / /       
- | || (_| | | | | | | |  | |_| | (_| | | | \__ \ ||  __/ |_| |  __/\ V /        
-|___|\__,_|_| |_| |_|_|  |____/ \__,_|_| |_|___/\__\___|____/ \___| \_/         
+ ___                 ____              _        ____             
+|_ _| __ _ _ __ ___ |  _ \  __ _ _ __ | |_ ___ |  _ \  _____   __
+ | |/ _` | '_ ` _ \ | | | |/ _` | '_ \| __/ _ \| | | |/ _ \ \ / /
+ | | (_| | | | | | || |_| | (_| | | | | ||  __/| |_| |  __/\ V /
+|___\__,_|_| |_| |_||____/ \__,_|_| |_|\__\___||____/ \___| \_/    
 
  "Si no existe, lo creo. Si ya existe pero se puede mejorar, lo reinvento."
   — IamDanteDev
