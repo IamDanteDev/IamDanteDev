@@ -1,4 +1,4 @@
-![Banner](banner-v2.png)
+![Banner](banner-v3.png)
 
 <h1 align="center">👋 ¡Qué onda! Soy <span style="color:#FFD700;">IamDanteDev</span> 🟡</h1>
 
